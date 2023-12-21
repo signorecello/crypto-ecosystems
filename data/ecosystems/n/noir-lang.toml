@@ -151,6 +151,12 @@ url = "https://github.com/BattleZips/BattleZips-Noir"
 url = "https://github.com/colinnielsen/ecrecover-noir"
 
 [[repo]]
+url = "https://github.com/colinnielsen/noir-array-helpers"
+
+[[repo]]
+url = "https://github.com/Wagmi-Studio/passport-reader"
+
+[[repo]]
 url = "https://github.com/Ethan-000/halo2_backend"
 
 [[repo]]
@@ -184,6 +190,12 @@ url = "https://github.com/polybase/zk-benchmarks"
 url = "https://github.com/signorecello/noir-playground"
 
 [[repo]]
+url = "https://github.com/signorecello/progcrypto23-act"
+
+[[repo]]
+url = "https://github.com/signorecello/noir-guessing-game"
+
+[[repo]]
 url = "https://github.com/Louis-Amas/noir-vim-support"
 
 [[repo]]
@@ -194,7 +206,6 @@ url = "https://github.com/hhamud/tree-sitter-noir"
 
 [[repo]]
 url = "https://github.com/hhamud/noir-ts-mode"
-
 
 [[repo]]
 url = "https://github.com/spalladino/hardhat-noir"
@@ -239,6 +250,12 @@ url = "https://github.com/doctoruber/statnr"
 url = "https://github.com/madztheo/noir-date"
 
 [[repo]]
+url = "https://github.com/madztheo/noir-string-utils"
+
+[[repo]]
+url = "https://github.com/doctoruber/DateTimeNr"
+
+[[repo]]
 url = "https://github.com/shuklaayush/noir-bigint"
 
 [[repo]]
@@ -248,7 +265,7 @@ url = "https://github.com/resurgencelabs/signed_int"
 url = "https://github.com/resurgencelabs/fraction"
 
 [[repo]]
-url = "https://github.com/colinnielsen/noir-u2b/tree/main"
+url = "https://github.com/colinnielsen/noir-u2b"
 
 [[repo]]
 url = "https://github.com/0x3327/ZKFloat"
@@ -342,3 +359,141 @@ url = "https://github.com/Rate-Limiting-Nullifier/noir-rln"
 
 [[repo]]
 url = "https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline"
+
+[[repo]]
+url = "https://github.com/StefanVelkoski/semaphore-noir"
+
+[[repo]]
+url = "https://github.com/TomAFrench/semaphore-noir"
+
+[[repo]]
+url = "https://github.com/TomAFrench/noir_shuffle"
+
+[[repo]]
+url = "https://github.com/TomAFrench/noir-rln"
+
+[[repo]]
+url = "https://github.com/TomAFrench/frogcrypto"
+
+[[repo]]
+url = "https://github.com/lambdaclass/noir_backend_using_gnark"
+
+[[repo]]
+url = "https://github.com/skaunov/hash_to_curve"
+
+[[repo]]
+url = "https://github.com/Maddiaa0/noir-flap"
+
+[[repo]]
+url = "https://github.com/flyinglimao/ProgWallet/"
+
+[[repo]]
+url = "https://github.com/luzalbaposse/Morvo-App"
+
+[[repo]]
+url = "https://github.com/cyberwider/next-gen-rpc"
+
+[[repo]]
+url = "https://github.com/rezabfil-sec/mybigfatcryptowedding"
+
+[[repo]]
+url = "https://github.com/Trivo25/noir-ethistanbul"
+
+[[repo]]
+url = "https://github.com/oxor-io/zk-layer-vote"
+
+[[repo]]
+url = "https://github.com/Tetration-Lab/webtree"
+
+[[repo]]
+url = "https://github.com/TUM-Blockchain-Club/zkGame"
+
+[[repo]]
+url = "https://github.com/alexkeating/noir-battle"
+
+[[repo]]
+url = "https://github.com/crisgarner/zkret-attestations"
+
+[[repo]]
+url = "https://github.com/emirsoyturk/eth-global-istanbul"
+
+[[repo]]
+url = "https://github.com/wighawag/vitalik-secret/"
+
+[[repo]]
+url = "https://github.com/loicttn/zkgames"
+
+[[repo]]
+url = "https://github.com/secretfans-eth/secretfans"
+
+[[repo]]
+url = "https://github.com/DappaDanDev/green-zktricity_"
+
+[[repo]]
+url = "https://github.com/sybil-center/zkc-noir-demo"
+
+[[repo]]
+url = "https://github.com/thomasacquin1225/ZKlash"
+
+[[repo]]
+url = "https://github.com/D9J9V/eth-online-2023"
+
+[[repo]]
+url = "https://github.com/jordan-public/billion-zk-voters"
+
+[[repo]]
+url = "https://github.com/zkvrf/zkvrf"
+
+[[repo]]
+url = "https://github.com/Created-for-a-purpose/AbstraZ"
+
+[[repo]]
+url = "https://github.com/only4sim/Noir-KZG"
+
+[[repo]]
+url = "https://github.com/cf-cartesi/dfast"
+
+[[repo]]
+url = "https://github.com/emirsoyturk/eth-global-online"
+
+[[repo]]
+url = "https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline"
+
+[[repo]]
+url = "https://github.com/hackathon-Eth/eth-global"
+
+[[repo]]
+url = "https://github.com/fosgate29/crfq"
+
+[[repo]]
+url = "https://github.com/aviral10x/ethonline"
+
+[[repo]]
+url = "https://github.com/AztecGravix/noir-contracts"
+
+[[repo]]
+url = "https://github.com/berkingurcan/Whistec"
+
+[[repo]]
+url = "https://github.com/parmanuxyz/noir/"
+
+[[repo]]
+url = "https://github.com/MuneerFergiani/glympse"
+
+[[repo]]
+url = "https://github.com/Wysdom-xyz/wysdom/"
+
+[[repo]]
+url = "https://github.com/blockchain-boulders/pebbles"
+
+[[repo]]
+url = "https://github.com/royalnine/tokenomgo_ethlondon"
+
+[[repo]]
+url = "https://github.com/SwineCoder101/chatchampion"
+
+[[repo]]
+url = "https://github.com/SyncStudy/dynamic-risk-contract-on-blockchain"
+
+[[repo]]
+url = "https://github.com/CredLancer/SuperLancers"
